@@ -1,0 +1,14 @@
+{
+  "chainId": 101,
+  "address": "9GMsZEKu9ijxH4xezHZpEH61yHJfXZfNvfJeww6tPPnn",
+  "symbol": "G",
+  "name": "Gravora",
+  "decimals": 9,
+  "logoURI": "https://i.imgur.com/mH9tDEv.jpeg",
+  "tags": ["utility-token"],
+  "extensions": {
+    "website": "https://x.com/gravora_G"
+  },
+  "description": "Gravora is a utility-focused Solana token built for serious use and long-term value."
+}
+
